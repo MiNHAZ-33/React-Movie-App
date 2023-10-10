@@ -45,7 +45,6 @@ const MovieDetails = () => {
                     </Col>
                 </Row>
                 <div className='text-center pt-4 pb-2'>
-
                     <Link to="/">
                         <Button variant="secondary">Back to homepage</Button>
                     </Link>
