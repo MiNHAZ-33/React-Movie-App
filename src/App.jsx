@@ -1,7 +1,4 @@
-import { useEffect } from "react"
-import axios from "axios"
-import Trending from "./assets/Components/Trending"
-import Search from "./assets/Components/Search"
+
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import HomePage from "./assets/Components/HomePage"
 import MovieDetails from "./assets/Components/MovieDetails"

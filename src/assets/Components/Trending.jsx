@@ -1,9 +1,6 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
 import MovieCard from './MovieCard';
-import Search from './Search';
 import { Link } from 'react-router-dom';
 
 function Trending() {

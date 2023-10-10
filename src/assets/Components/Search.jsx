@@ -1,12 +1,11 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+
 import MovieCard from './MovieCard';
 import Form from 'react-bootstrap/Form';
 import FormControl from 'react-bootstrap/FormControl';
 import { Link } from 'react-router-dom';
-
 
 const Search = () => {
 
